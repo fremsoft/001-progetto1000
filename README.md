@@ -1,5 +1,5 @@
 # 001-progetto1000
-Questo è il primo progetto del [▶ Canale YouTube "PROGETTI con Emanuele Frisoni"](https://youtube.com/c/fremsoft), un progetto collaborativo che nasce al raggiungimento di 1000 iscritti: [📽 Guarda la Playlist completa del progetto](https://www.youtube.com/watch?v=VcB0eAnL97o&list=PLxAafib4pWc7LSfuXC9RSEif6I1dyx5FP)
+Questo è il primo progetto del [:arrow_forward: Canale YouTube "PROGETTI con Emanuele Frisoni"](https://youtube.com/c/fremsoft), un progetto collaborativo che nasce al raggiungimento di 1000 iscritti: [:movie_camera: Guarda la Playlist completa del progetto](https://www.youtube.com/watch?v=VcB0eAnL97o&list=PLxAafib4pWc7LSfuXC9RSEif6I1dyx5FP)
 
 I risultati del sondaggio per definire le specifiche del progetto sono i seguenti:
 
