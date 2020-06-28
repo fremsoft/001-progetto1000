@@ -3,9 +3,9 @@ Questo è il primo progetto del [:arrow_forward: Canale YouTube "PROGETTI con Em
 
 I risultati del sondaggio per definire le specifiche del progetto sono i seguenti:
 
-1. Arduino o Microchip PIC? **ARDUINO** [4 voti / 1]
+1. Arduino o Microchip PIC? **ARDUINO** [4 voti / 2]
 
-2. Encoder Ottico o Accelerometro Gravitazionale? **ENCODER OTTICO** [3 voti / 0]
+2. Encoder Ottico o Accelerometro Gravitazionale? **ENCODER OTTICO** [3 voti / 1]
 
 3. Costruzioni LEGO o Particolari stampati con Stampante 3D? **STAMPA 3D** [2 voti / 4]
 
