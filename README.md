@@ -7,6 +7,6 @@ I risultati del sondaggio per definire le specifiche del progetto sono i seguent
 
 2. Encoder Ottico o Accelerometro Gravitazionale? **ENCODER OTTICO** [3 voti / 0]
 
-3. Costruzioni LEGO o Particolari stampati con Stampante 3D? **STAMPA 3D** [2 voti / 3]
+3. Costruzioni LEGO o Particolari stampati con Stampante 3D? **STAMPA 3D** [2 voti / 4]
 
 Il codice sorgente di **Arduino** è disponibile anche a questo link: [Sorgenti Arduino](https://create.arduino.cc/editor/fremsoft/6501effc-6729-46f5-a2f1-0bfa0e9eb691/preview)
