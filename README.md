@@ -9,9 +9,13 @@ I risultati del sondaggio per definire le specifiche del progetto sono i seguent
 
 3. Costruzioni LEGO o Particolari stampati con Stampante 3D? **STAMPA 3D** [2 voti / 4]
 
-4. Stand alone o Connesso a un PC/Smartphone? **???** [3 voti / 3]
+4. Stand alone o Connesso a un PC/Smartphone? **SIA STANDALONE CHE COMANDATO** [4 voti / 4]
 
-5. Muto o Sonoro? **???** [2 voti / 2]
+5. Muto o Sonoro? **SONORO** [3 voti / 4]
+
+6. Cieco o con Telecamera? **TELECAMERA** [0 voti / 4]
+
+7. Procedurale o Intelligenza Artificiale? **A.I.** [0 voti / 5 ]
 
 
 Il codice sorgente di **Arduino** è disponibile anche a questo link: [Sorgenti Arduino](https://create.arduino.cc/editor/fremsoft/6501effc-6729-46f5-a2f1-0bfa0e9eb691/preview)
