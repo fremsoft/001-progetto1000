@@ -44,6 +44,9 @@ Siccome si tratta di un progetto collaborativo, per definire le specifiche di pr
 [^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
 
 ## Attività da svolgere e svolte
+Ogni progetto che si rispetti deve prevedere una serie di fasi da svolgere. Maggiore sarà la difficoltà del progetto e maggiori sono le incognite, tanto più sarà difficile riuscire a prevedere con esattezza tutte le fasi. Ciononostante, è sempre buona norma prevedere con la massima accuratezza tutte le fasi del progetto in una sorta di planning. Ad ogni modo il progetto può essere periodicamente rivisitato, modificato e corretto, in corso d'opera.
+
+L'utilità di suddividere il progetto in attività elementari, consente al progettista di avere un approccio più razionale ed evitare di disperdersi. Inoltre, laddove sia possibile lavorare in Team, la suddivisione del progetto in attività consente di stabilire se alcune attività possano essere svolte simultaneamente da più attori, per esempio dopo aver definito le specifiche di progetto con precisione, si può affidare il progetto meccanico ad un Team ed il progetto elettronico ad un altro Team di sviluppatori.
 
 - [x] Analisi di fattibilità
 
