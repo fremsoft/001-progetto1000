@@ -1,6 +1,20 @@
 # #progetto1000 il Robot che risolve il Cubo di Rubik
 Questo è il primo progetto del [:arrow_forward: Canale YouTube "PROGETTI con Emanuele Frisoni"](https://youtube.com/c/fremsoft), un progetto collaborativo che nasce al raggiungimento di 1000 iscritti: [:movie_camera: Guarda la Playlist completa del progetto](https://www.youtube.com/watch?v=VcB0eAnL97o&list=PLxAafib4pWc7LSfuXC9RSEif6I1dyx5FP)
 
+1. [Parte la progettazione in Live Streaming su Twitch](README.md#parte-la-progettazione-in-live-streaming-su-twitch)
+2. [Definizione delle specifiche](README.md#definizione-delle-specifiche)
+3. [Attività da svolgere e svolte](README.md#attivit%C3%A0-da-svolgere-e-svolte)
+4. [Codici sorgenti](README.md#codici-sorgenti)
+5. [Sostieni PROGETTO1000](README.md#sostieni-progetto1000)
+6. [Lista della spesa](README.md#lista-della-spesa)
+
+   6.1 [Attrezzature da laboratorio e Kit](README.md#attrezzature-da-laboratorio-e-kit)
+   
+   6.2 [Materiale e schede elettroniche](README.md#materiale-e-schede-elettroniche)
+   
+   6.3 [Materiale vario per assemblaggio prototipo](README.md#materiale-vario-per-assemblaggio-prototipo)
+   
+
 ## Parte la progettazione in Live Streaming su Twitch
 **Ogni Giovedì sera alle 22:00** ci incontriamo su [Twitch Tv](https://www.twitch.tv/fremsoft) per progettare insieme il Robot che risolve il Cubo di Rubik, partendo da zero. Affronteremo tutti i passaggi in maniera approfondita. Ho deciso di utilizzare tecnologie che conosco "per sentito dire", ma su cui non ho mai lavorato. In questo modo vedrai tutto il processo che sta dietro alla ricerca di una soluzione. A differenza di altri progetti che trovi in rete, #progetto1000 non esiste ancora, lo possiamo creare insieme. 
 
