@@ -22,6 +22,8 @@ Lo scopo non è mostrare al mondo quanto siamo bravi, ma mostrare agli aspiranti
 
 :clapper: Canale Twitch:  [https://www.twitch.tv/fremsoft](https://www.twitch.tv/fremsoft)
 
+[^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
+
 ## Definizione delle specifiche
 Siccome si tratta di un progetto collaborativo, per definire le specifiche di progetto sono stati fatti alcuni sondaggi esplorativi per determinare quali tecnologie utilizzare in questo primo progetto. I risultati del sondaggio sono i seguenti:
 
@@ -39,14 +41,20 @@ Siccome si tratta di un progetto collaborativo, per definire le specifiche di pr
 
 7. Procedurale o Intelligenza Artificiale? **A.I.** [0 voti / 5 ]
 
+[^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
+
 ## Attività da svolgere e svolte
 
 - [x] Analisi di fattibilità
+
+[^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
 
 ## Codici sorgenti
 **#progetto1000** è un progetto Open-Source collaborativo. Tutti i sorgenti elaborati in fase di progettazione sono presenti su questo canale GitHub. Esplora le cartelle di [001-progetto1000](https://github.com/fremsoft/001-progetto1000) e troverai i sorgenti del progetto meccanico, elettronico, software e altro materiale prodotto in fase di progettazione.
 
 Il codice sorgente di **Arduino** è disponibile anche a questo link: [Sorgenti Arduino](https://create.arduino.cc/editor/fremsoft/6501effc-6729-46f5-a2f1-0bfa0e9eb691/preview)
+
+[^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
 
 ## Sostieni PROGETTO1000 
 Se **#progetto1000** ti sta appassionando e desideri sostenere la progettazione, puoi acquistare i componenti necessari alla creazione del prototipo o le attrezzature necessarie all'allestimento del laboratorio, facendoli recapitare al mio indirizzo. La lista dei desideri completa dove trovi tutte le cose che servono:
@@ -54,6 +62,8 @@ Se **#progetto1000** ti sta appassionando e desideri sostenere la progettazione,
 :notebook: "Wish list Amazon" - https://amzn.to/2BDtwIV
 
 Un altro modo per sostenere il canale è seguendo il [canale YouTube](https://youtube.com/c/fremsoft), semplicemente guardando i video, iscrivendoti al canale, mettendo like e interagendo con i commenti, ma soprattutto condividendo i video che preferisci con i tuoi amici progettisti, sono tutti modi per sostenere gratuitamente il canale.
+
+[^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
 
 ## Lista della spesa
 **#progetto1000** sta nascendo, non abbiamo ancora una BOM (Bill Of Material), ma stiamo già acquistando un po' di materiale per realizzare il prototipo e fare le prime prove pratiche. Se vuoi sviluppare insieme a noi e vuoi eseguire le stesse prove a casa tua, ti indico quale materiale ho acquistato qui di seguito:
@@ -73,3 +83,4 @@ Un altro modo per sostenere il canale è seguendo il [canale YouTube](https://yo
 ### Materiale vario per assemblaggio prototipo
 * [Sfere in acciaio 4mm](https://amzn.to/3lzfDwr)
 
+[^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
