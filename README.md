@@ -48,7 +48,26 @@ Ogni progetto che si rispetti deve prevedere una serie di fasi da svolgere. Magg
 
 L'utilità di suddividere il progetto in attività elementari, consente al progettista di avere un approccio più razionale ed evitare di disperdersi. Inoltre, laddove sia possibile lavorare in Team, la suddivisione del progetto in attività consente di stabilire se alcune attività possano essere svolte simultaneamente da più attori, per esempio dopo aver definito le specifiche di progetto con precisione, si può affidare il progetto meccanico ad un Team ed il progetto elettronico ad un altro Team di sviluppatori.
 
-- [x] Analisi di fattibilità
+- [x] [Analisi di fattibilità](https://youtu.be/We6UntzGp7k)
+- [ ] Raccolta della documentazione
+- [ ] Prove sperimentali con prototipi
+- [ ] Progettazione meccanica 
+  - [ ] Realizzazione delle parti che compongono il Robot (esportati in STL)
+  - [ ] Stampare in 3D le componenti meccaniche
+  - [ ] Assemblare le parti meccaniche con le parti elettriche (motori, encoder, etc)
+- [ ] Progettazione elettronica
+   - [ ] Circuiti di condizionamento dei sensori ottici
+   - [ ] Comando motori
+   - [ ] Amplificatore per altoparlante
+- [ ] Progettazione del programma su Arduino
+  - [ ] Movimentazione elementare (attraverso la porta seriale invieremo i comandi per eseguire i movimenti)
+  - [ ] Acquisizione delle immagini da telecamera per distinguere i colori e mappare gli elementi del cubo di Rubik
+  - [ ] Implementare gli algoritmi del metodo a strati 
+  - [ ] Implementare i suoni
+- [ ] Progettazione della rete neurale
+  - [ ] Addestramento di una rete neurale per riconoscere tutti gli OLL e PLL
+  - [ ] Implementazione della rete neurale nell'algoritmo 
+- [ ] Progettazione dell'applicativo per Android per mescolare il cubo con una specifica scramble o altro 
 
 [^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
 
