@@ -105,4 +105,8 @@ Un altro modo per sostenere il canale è seguendo il [canale YouTube](https://yo
 ### Materiale vario per assemblaggio prototipo
 * [Sfere in acciaio 4mm](https://amzn.to/3lzfDwr)
 
+Trovi la lista completa al seguente link:
+🛒 [Lista della spesa di #progetto1000](https://www.amazon.it/hz/wishlist/ls/8D7WPLCAZ7KL?tag=p-ef-21)
+
+
 [^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
