@@ -70,6 +70,7 @@ L'utilità di suddividere il progetto in attività elementari, consente al proge
   - [ ] Addestramento di una rete neurale per riconoscere tutti gli OLL e PLL
   - [ ] Implementazione della rete neurale nell'algoritmo 
 - [ ] Progettazione dell'applicativo per Android per mescolare il cubo con una specifica scramble o altro 
+- [ ] Dare un nome al robot
 
 [^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
 
