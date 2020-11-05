@@ -56,9 +56,11 @@ L'utilità di suddividere il progetto in attività elementari, consente al proge
   - [ ] Stampare in 3D le componenti meccaniche
   - [ ] Assemblare le parti meccaniche con le parti elettriche (motori, encoder, etc)
 - [ ] Progettazione elettronica
+   - [ ] Alimentazione
    - [ ] Circuiti di condizionamento dei sensori ottici
    - [ ] Comando motori
    - [ ] Amplificatore per altoparlante
+   - [ ] Protezioni e filtri EMC/EMI
 - [ ] Progettazione del programma su Arduino
   - [ ] Movimentazione elementare (attraverso la porta seriale invieremo i comandi per eseguire i movimenti)
   - [ ] Acquisizione delle immagini da telecamera per distinguere i colori e mappare gli elementi del cubo di Rubik
