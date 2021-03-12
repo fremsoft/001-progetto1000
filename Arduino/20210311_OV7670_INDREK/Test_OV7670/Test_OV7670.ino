@@ -24,6 +24,8 @@
                     asm volatile("nop")
 #endif
 
+#define SCALE_FACTOR 4
+
 /*
  * https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno/blob/master/ov7670.h
  */
@@ -515,7 +517,7 @@ void processLine( uint8_t n_linea ) {
  
   Serial.println( "<tr>");
     
-  for (j = 0; j < 320; j+=2) {
+  for (j = 0; j < 320; j+=(2*SCALE_FACTOR)) {
 
     pixel = ( linea[j] << 8 ) | ( linea[j+1] );
 
@@ -531,7 +533,7 @@ void processLine( uint8_t n_linea ) {
     Serial.print((pixel >> 12) & 0xF, HEX); Serial.print((pixel >> 8) & 0x8, HEX);  
     Serial.print((pixel >> 7)  & 0xF, HEX); Serial.print((pixel >> 3) & 0xC, HEX);  
     Serial.print((pixel >> 1)  & 0xF, HEX); Serial.print((pixel << 3) & 0x8, HEX);  
-    Serial.print( "\">&nbsp;</td>");
+    Serial.print( "\"></td>");
     
   }
 
@@ -543,10 +545,11 @@ void processLine( uint8_t n_linea ) {
 void loop() {
 
   uint8_t i;
+  
 
-  Serial.println( "<html><body><table>");
+  Serial.println( "<html><body><table style=\"border-collapse:collapse;\">");
 
-  for (i = 0; i < 120; i++) {
+  for (i = 0; i < 120; i+=SCALE_FACTOR) {
   // DEBUG: while ( true ) { i = 0;
 
     processLine( i );
