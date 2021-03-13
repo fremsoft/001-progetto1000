@@ -11,7 +11,7 @@
  *  9 VREF - PH6  0100 0000  0x40
  **/
 #define OV7670_PIXEL_CLOCK (PINH & 0b00010000)   // PIN 7
-#define OV7670_HREF        (PINH & 0b00100000)   // PIN 8
+#define OV7670_HREF        (PINH & 0b00100000)   // PIN 8  CONFIGURATO MA NON CI SERVE!
 #define OV7670_VSYNC       (PINH & 0b01000000)   // PIN 9
 #define OV7670_READ_PIXEL_BYTE(b) b=PINC;        // PORT C = PIN 32..39
 
