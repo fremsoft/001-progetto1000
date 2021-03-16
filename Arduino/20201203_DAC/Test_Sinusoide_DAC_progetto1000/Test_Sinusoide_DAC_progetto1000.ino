@@ -4,8 +4,10 @@
  *  La sinusoide viene memorizzata su un Array a 
  *  360 punti  (un valore per ogni grado della 
  *  circonferenza) in modo da ridurre al massimo 
- *  il carico computazionale del microprocessore. 
- *  
+ *  il carico computazionale del microprocessore.  
+ *
+ *  Guarda il video: https://www.youtube.com/watch?v=L2Mvvd9AcHA
+ *
  *  03-12-2020 - Emanuele Frisoni
  */
 
