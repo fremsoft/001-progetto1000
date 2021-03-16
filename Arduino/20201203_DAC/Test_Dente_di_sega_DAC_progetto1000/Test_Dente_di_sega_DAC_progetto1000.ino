@@ -1,6 +1,8 @@
 /* Generatore di onda a dente di sega su Arduino Mega
  *  con Convertitore Digitale Analogico (DAC R-2R)
  *  e amplificatore LM386N.
+ *
+ *  Guarda il video: https://www.youtube.com/watch?v=L2Mvvd9AcHA
  *  
  *  03-12-2020 - Emanuele Frisoni
  */
