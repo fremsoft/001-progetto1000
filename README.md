@@ -49,22 +49,45 @@ Ogni progetto che si rispetti deve prevedere una serie di fasi da svolgere. Magg
 L'utilità di suddividere il progetto in attività elementari, consente al progettista di avere un approccio più razionale ed evitare di disperdersi. Inoltre, laddove sia possibile lavorare in Team, la suddivisione del progetto in attività consente di stabilire se alcune attività possano essere svolte simultaneamente da più attori, per esempio dopo aver definito le specifiche di progetto con precisione, si può affidare il progetto meccanico ad un Team ed il progetto elettronico ad un altro Team di sviluppatori.
 
 - [x] [Analisi di fattibilità](https://youtu.be/We6UntzGp7k)
-- [ ] Raccolta della documentazione
-- [ ] Prove sperimentali con prototipi
+- [ ] Raccolta della documentazione e prove sperimentali con prototipi
+  - [x] Dimensioni meccaniche e forze necessarie a manipolare il cubo di Rubik
+  - [x] Caratteristiche elettriche e meccaniche dei motori c.c.
+  - [x] Caratteristiche elettriche del driver (ponte-H) per motori c.c.
+  - [x] Specifiche elettriche dei sensori ottici (fotoresistori)
+  - [x] Funzionamento di Arduino (uscite PWM, uscite parallele, timers)
+  - [x] DAC e amplificatore audio per speaker 8 ohm
+  - [x] Slot per Micro SD Card per Arduino per storage file audio
+  - [x] Funzionamento Chip Camera OV7670 e acquisizione immagini
+  - [ ] Ottica del sensore OV7670
+  - [ ] Funzionamento del modulo WiFi per comunicazione con Smartphone
+  - [ ] Alimentazione 5V @ 10A
+  - [ ] Selezione molle per mano robotica
 - [ ] Progettazione meccanica 
   - [ ] Realizzazione delle parti che compongono il Robot (esportati in STL)
   - [ ] Stampare in 3D le componenti meccaniche
   - [ ] Assemblare le parti meccaniche con le parti elettriche (motori, encoder, etc)
 - [ ] Progettazione elettronica
    - [ ] Alimentazione
-   - [ ] Circuiti di condizionamento dei sensori ottici
-   - [ ] Comando motori
-   - [ ] Amplificatore per altoparlante
-   - [ ] Protezioni e filtri EMC/EMI
+   - [ ] Shield p1000 
+     - [x] DAC e Amplificatore per altoparlante
+     - [x] Modulo SD-Card
+     - [ ] Interfacciamento Chip Camera OV7670
+     - [ ] Modulo WiFi
+     - [ ] Circuiti di condizionamento dei sensori ottici
+     - [ ] Comando motori
+     - [ ] Protezioni e filtri EMC/EMI
 - [ ] Progettazione del programma su Arduino
   - [ ] Movimentazione elementare (attraverso la porta seriale invieremo i comandi per eseguire i movimenti)
   - [ ] Acquisizione delle immagini da telecamera per distinguere i colori e mappare gli elementi del cubo di Rubik
-  - [ ] Implementare gli algoritmi del metodo a strati 
+  - [ ] Implementare gli algoritmi del metodo a strati
+    - [ ] Croce bianca
+    - [ ] Faccia bianca e primo strato
+    - [ ] Secondo strato
+    - [ ] Croce gialla
+    - [ ] OLL
+    - [ ] PLL (primo passaggio)
+    - [ ] PLL (secondo passaggio)
+    - [ ] Allineamento terzo strato 
   - [ ] Implementare i suoni
 - [ ] Progettazione della rete neurale
   - [ ] Addestramento di una rete neurale per riconoscere tutti gli OLL e PLL
