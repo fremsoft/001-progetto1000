@@ -1,4 +1,15 @@
-/*  INCLUDO LA LIBRERIA WIRE.H CHE SERVE AD UTILIZZARE 
+/* Programma per il test della comunicazione I2C con 
+ *  la Chip Camera OV7670. Proviamo anche a estrarre
+ *  delle immagini dal bus dati, ma quello che otteniamo
+ *  non è ancora accettabile!
+ *  Il programma è scritto per Arduino Mega e OV7670.
+ *
+ *  Guarda il video: https://www.youtube.com/watch?v=s_XzfoMg6WQ
+ *
+ *  21-02-2021 - Emanuele Frisoni
+ *
+ *
+ *  INCLUDO LA LIBRERIA WIRE.H CHE SERVE AD UTILIZZARE 
  *  IL CANALE DI COMUNICAZIONE I2C SU PIN 20 e 21 SU
  *  ARDUINO MEGA
  */
@@ -262,5 +273,4 @@ void write_reg(byte regNumber, byte to_val ) {
     Serial.print(from_val, HEX);
     Serial.print(" to ");
     Serial.println(to_val, HEX);
-
 }
