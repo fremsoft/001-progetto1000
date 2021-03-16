@@ -22,5 +22,7 @@ void setup() {
 }
 
 void loop() {
+  
+  /* do nothing */
     
 }
