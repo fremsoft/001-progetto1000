@@ -1,3 +1,16 @@
+/* Sintetizzatore audio su Arduino Mega con 
+ *  Convertitore Digitale Analogico (DAC R-2R)
+ *  e amplificatore LM386N.
+ *  Per usare questo Sketch occorre realizzare un DAC con 
+ *  rete a partitore resistivo R-2R sui pin 42(MSb)÷49(LSb)
+ *  di Arduino Mega.
+ *  
+ *  Guarda il video: https://www.youtube.com/watch?v=YSctt-mZF6c
+ *
+ *  13-12-2020 - Emanuele Frisoni
+ */
+
+
 #include "ciao_wav.h"
 
 long int size_ciao;
