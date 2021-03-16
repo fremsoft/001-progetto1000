@@ -1,3 +1,14 @@
+/* Generatore di clock a 8MHz per Chip Camera OV7670
+ *  su Arduino Mega. Questo Sketch produce un'onda 
+ *  quadra di frequenza 8MHz su un pin di uscita
+ *  partendo da un clock 16MHz, utilizzando OCR4A
+ *  alla massima frequenza, cioè 16MHz ÷2.
+ *
+ *  Guarda il video: https://www.youtube.com/watch?v=z41dz3ocIu0
+ *
+ *  15-02-2021 - Emanuele Frisoni
+ */
+
 void setup() {
   // put your setup code here, to run once:
 
