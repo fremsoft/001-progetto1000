@@ -1,4 +1,4 @@
-Queste sono alcune immagini catturate dalla Chip Camera OV7670
+Queste sono alcune immagini catturate dalla Chip Camera OV7670 e salvate in formato HTML per essere visualizzate da un qualsiasi browser.
 
 Come ben visibile dal risultato prodotto, dobbiamo ancora lavorarci su affinché possiamo ottenere delle immagini accettabili:
 
