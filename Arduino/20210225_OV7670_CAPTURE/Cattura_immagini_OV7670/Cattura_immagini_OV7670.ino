@@ -4,7 +4,9 @@
  *  non è ancora accettabile!
  *  Il programma è scritto per Arduino Mega e OV7670.
  *
- *  Guarda il video: https://www.youtube.com/watch?v=s_XzfoMg6WQ
+ *  Guarda i video: 
+ *         https://www.youtube.com/watch?v=s_XzfoMg6WQ
+ *         https://www.youtube.com/watch?v=J6CuJaAFM8s
  *
  *  21-02-2021 - Emanuele Frisoni
  *
