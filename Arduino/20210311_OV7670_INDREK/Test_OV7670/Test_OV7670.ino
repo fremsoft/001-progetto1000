@@ -1,4 +1,24 @@
-/*  INCLUDO LA LIBRERIA WIRE.H CHE SERVE AD UTILIZZARE 
+/* Programma per la configurazione ottimale della Chip Camera OV7670
+ *  su Arduino Mega. Abbiamo preso ispirazione dal progetto Demo
+ *  scritto da indrek luuk:
+ * 
+ *  https://github.com/fremsoft/001-progetto1000/blob/master/Doc/OV7670/LiveOV7670-master.zip
+ *
+ *  Ci siamo resi conto che il dispositivo deve essere leggermente 
+ *  hackerato per riuscire ad ottenere un buon risultato in risoluzione
+ *  160x120 pixel a 2fps in modalità RGB565, nel senso che vengono 
+ *  riprogrammati parecchi registri 'riservati' talvolta definiti
+ *  dallo stesso indrek 'magici'.
+ * 
+ *  Questo sketch estrae le immagini in formato "html" per poter
+ *  essere visualizzate utilizzando un quelsiasi browser.
+ *
+ *  Guarda il video: https://www.youtube.com/watch?v=s_XzfoMg6WQ
+ *
+ *  14-03-2021 - Emanuele Frisoni
+ *
+ *
+ *  INCLUDO LA LIBRERIA WIRE.H CHE SERVE AD UTILIZZARE 
  *  IL CANALE DI COMUNICAZIONE I2C SU PIN 20 e 21 SU
  *  ARDUINO MEGA
  */
