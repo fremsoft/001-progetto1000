@@ -212,6 +212,16 @@ void setup() {
   TCCR4B = 0x09;
   OCR4A = 0;
 
+  // CONFIGURO I PIN 30-37 COME INGRESSI
+  pinMode(30, INPUT);  //PIN-C7
+  pinMode(31, INPUT);  //PIN-C6
+  pinMode(32, INPUT);  //PIN-C5
+  pinMode(33, INPUT);  //PIN-C4
+  pinMode(34, INPUT);  //PIN-C3
+  pinMode(35, INPUT);  //PIN-C2
+  pinMode(36, INPUT);  //PIN-C1
+  pinMode(37, INPUT);  //PIN-C0
+
   // CONFIGURO I PIN 7-8-9 COME INGRESSI
   pinMode(7, INPUT);  //PCLK - PH4
   pinMode(8, INPUT);  //HREF - PH5
