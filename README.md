@@ -102,7 +102,9 @@ L'utilità di suddividere il progetto in attività elementari, consente al proge
 ## Codici sorgenti
 **#progetto1000** è un progetto Open-Source collaborativo. Tutti i sorgenti elaborati in fase di progettazione sono presenti su questo canale GitHub. Esplora le cartelle di [001-progetto1000](https://github.com/fremsoft/001-progetto1000) e troverai i sorgenti del progetto meccanico, elettronico, software e altro materiale prodotto in fase di progettazione.
 
-Il codice sorgente di **Arduino** è disponibile anche a questo link: [Sorgenti Arduino](https://create.arduino.cc/editor/fremsoft/6501effc-6729-46f5-a2f1-0bfa0e9eb691/preview)
+Il codice sorgente di **Arduino** sarà disponibile anche a questo link: [Sorgenti Arduino](https://create.arduino.cc/editor/fremsoft/6501effc-6729-46f5-a2f1-0bfa0e9eb691/preview)
+
+La Shield #P1000 è stata omaggiata da [PcbWay.com](https://www.pcbway.com/setinvite.aspx?inviteid=15084) che è sponsor ufficiale di Progetto 1000. Trovi il progetto del PCB scaricabile anche qui: [Shield #P1000 su PcbWay](https://www.pcbway.com/project/shareproject/Shield__P1000__for_Arduino_Mega.html), ricordati di votare il progetto!
 
 [^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
 
@@ -129,6 +131,7 @@ Un altro modo per sostenere il canale è seguendo il [canale YouTube](https://yo
 * [Telecamera a colori per Arduino](https://amzn.to/3nbS0Ma)
 * [Set 6 motori con accessori](https://amzn.to/3nhQrfy)
 * [Fotoresistore](https://amzn.to/370EtBg)
+* [Shield #P1000 su PcbWay](https://www.pcbway.com/project/shareproject/Shield__P1000__for_Arduino_Mega.html)
 
 ### Materiale vario per assemblaggio prototipo
 * [Sfere in acciaio 4mm](https://amzn.to/3lzfDwr)
