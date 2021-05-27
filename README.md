@@ -53,33 +53,35 @@ L'utilità di suddividere il progetto in attività elementari, consente al proge
   - [x] Dimensioni meccaniche e forze necessarie a manipolare il cubo di Rubik
   - [x] Caratteristiche elettriche e meccaniche dei motori c.c.
   - [x] Caratteristiche elettriche del driver (ponte-H) per motori c.c.
-  - [x] Specifiche elettriche dei sensori ottici (fotoresistori)
+  - [x] Specifiche elettriche dei sensori ottici (fotoresistori/TCUT1350x01)
   - [x] Funzionamento di Arduino (uscite PWM, uscite parallele, timers)
   - [x] DAC e amplificatore audio per speaker 8 ohm
   - [x] Slot per Micro SD Card per Arduino per storage file audio
   - [x] Funzionamento Chip Camera OV7670 e acquisizione immagini
-  - [ ] Ottica del sensore OV7670
-  - [ ] Funzionamento del modulo WiFi per comunicazione con Smartphone
-  - [ ] Alimentazione 5V @ 10A
+  - [x] Ottica del sensore OV7670
+  - [x] Funzionamento del modulo WiFi per comunicazione con Smartphone
+  - [x] Alimentazione 5V @ 10A
   - [ ] Selezione molle per mano robotica
 - [ ] Progettazione meccanica 
   - [ ] Realizzazione delle parti che compongono il Robot (esportati in STL)
   - [ ] Stampare in 3D le componenti meccaniche
   - [ ] Assemblare le parti meccaniche con le parti elettriche (motori, encoder, etc)
 - [ ] Progettazione elettronica
-   - [ ] Alimentazione
+   - [x] Alimentazione
    - [ ] Shield p1000 
      - [x] DAC e Amplificatore per altoparlante
      - [x] Modulo SD-Card
-     - [ ] Interfacciamento Chip Camera OV7670
-     - [ ] Modulo WiFi
-     - [ ] Circuiti di condizionamento dei sensori ottici
-     - [ ] Comando motori
-     - [ ] Protezioni e filtri EMC/EMI
+     - [x] Interfacciamento Chip Camera OV7670
+     - [x] Modulo WiFi
+     - [x] Circuiti di condizionamento dei sensori ottici
+     - [x] Comando motori
+     - [x] Protezioni e filtri EMC/EMI
+     - [ ] Montare i componenti elettronici
+     - [ ] Collaudo generale dell'elettronica
 - [ ] Progettazione del programma su Arduino
   - [ ] Movimentazione elementare (attraverso la porta seriale invieremo i comandi per eseguire i movimenti)
   - [ ] Acquisizione delle immagini da telecamera per distinguere i colori e mappare gli elementi del cubo di Rubik
-  - [ ] Implementare gli algoritmi del metodo a strati
+  - [ ] Implementare gli algoritmi del metodo CFOP semplificato
     - [ ] Croce bianca
     - [ ] Faccia bianca e primo strato
     - [ ] Secondo strato
@@ -92,7 +94,7 @@ L'utilità di suddividere il progetto in attività elementari, consente al proge
 - [ ] Progettazione della rete neurale
   - [ ] Addestramento di una rete neurale per riconoscere tutti gli OLL e PLL
   - [ ] Implementazione della rete neurale nell'algoritmo 
-- [ ] Progettazione dell'applicativo per Android per mescolare il cubo con una specifica scramble o altro 
+- [ ] Progettazione dell'applicativo per Android per mescolare il cubo con una specifica scramble o altro (forse questa fase salta)
 - [ ] Dare un nome al robot
 
 [^ Torna su](README.md#progetto1000-il-robot-che-risolve-il-cubo-di-rubik)
