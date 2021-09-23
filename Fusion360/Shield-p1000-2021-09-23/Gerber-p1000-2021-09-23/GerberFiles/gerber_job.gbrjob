@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-09-23T22:08:42Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.64,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "shield-p1000_v133"
+        },
+        "Owner": "Emanuele Frisoni <fremsoft@libero.it>",
+        "Size": {
+            "X": 141.91,
+            "Y": 63.49
+        }
+    }
+}
