@@ -66,9 +66,9 @@ L'utilità di suddividere il progetto in attività elementari, consente al proge
   - [ ] Realizzazione delle parti che compongono il Robot (esportati in STL)
   - [ ] Stampare in 3D le componenti meccaniche
   - [ ] Assemblare le parti meccaniche con le parti elettriche (motori, encoder, etc)
-- [ ] Progettazione elettronica
+- [x] Progettazione elettronica
    - [x] Alimentazione
-   - [ ] Shield p1000 
+   - [x] Shield p1000 
      - [x] DAC e Amplificatore per altoparlante
      - [x] Modulo SD-Card
      - [x] Interfacciamento Chip Camera OV7670
@@ -76,8 +76,8 @@ L'utilità di suddividere il progetto in attività elementari, consente al proge
      - [x] Circuiti di condizionamento dei sensori ottici
      - [x] Comando motori
      - [x] Protezioni e filtri EMC/EMI
-     - [ ] Montare i componenti elettronici
-     - [ ] Collaudo generale dell'elettronica
+     - [x] Montare i componenti elettronici
+     - [x] Collaudo generale dell'elettronica
 - [ ] Progettazione del programma su Arduino
   - [ ] Movimentazione elementare (attraverso la porta seriale invieremo i comandi per eseguire i movimenti)
   - [ ] Acquisizione delle immagini da telecamera per distinguere i colori e mappare gli elementi del cubo di Rubik
