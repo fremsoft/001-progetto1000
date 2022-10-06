@@ -1,0 +1,6 @@
+Partlist exported from Team Hub: #progetto1000   Project: #Progetto1000  Board: ecnoder_TCUT1350 v11 at 06/10/2022 23:05
+
+Qty Value       Device      Package     Parts      Description       CATEGORY  DESCRIPTION MANUFACTURER MF MPN OC_FARNELL OC_NEWARK OPERATING_TEMP PART_STATUS POPULARITY ROHS_COMPLIANT SERIES SUB-CATEGORY THERMALLOSS TYPE
+1               MPT4        4POL254     S1         PHOENIX CONNECTOR                                           unknown    unknown                              5                                                             
+2   PINHD-1X1   PINHD-1X1   1X01        PIN4, PIN5 PIN HEADER        CONNECTOR                                                                                                                  PIN-HEADER                   
+1   TCUT1350X01 TCUT1350X01 TCUT1350X01 OK1                                                                                                                                                                                  

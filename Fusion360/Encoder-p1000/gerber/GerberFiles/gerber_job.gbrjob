@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-10-06T21:05:52Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ecnoder_TCUT1350 v0"
+        },
+        "Owner": "Emanuele Frisoni <fremsoft@libero.it>",
+        "Size": {
+            "X": 11.4175,
+            "Y": 28.2475
+        }
+    }
+}
