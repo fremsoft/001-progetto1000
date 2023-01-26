@@ -49,7 +49,7 @@ Ogni progetto che si rispetti deve prevedere una serie di fasi da svolgere. Magg
 L'utilità di suddividere il progetto in attività elementari, consente al progettista di avere un approccio più razionale ed evitare di disperdersi. Inoltre, laddove sia possibile lavorare in Team, la suddivisione del progetto in attività consente di stabilire se alcune attività possano essere svolte simultaneamente da più attori, per esempio dopo aver definito le specifiche di progetto con precisione, si può affidare il progetto meccanico ad un Team ed il progetto elettronico ad un altro Team di sviluppatori.
 
 - [x] [Analisi di fattibilità](https://youtu.be/We6UntzGp7k)
-- [ ] Raccolta della documentazione e prove sperimentali con prototipi
+- [x] Raccolta della documentazione e prove sperimentali con prototipi
   - [x] Dimensioni meccaniche e forze necessarie a manipolare il cubo di Rubik
   - [x] Caratteristiche elettriche e meccaniche dei motori c.c.
   - [x] Caratteristiche elettriche del driver (ponte-H) per motori c.c.
@@ -61,11 +61,11 @@ L'utilità di suddividere il progetto in attività elementari, consente al proge
   - [x] Ottica del sensore OV7670
   - [x] Funzionamento del modulo WiFi per comunicazione con Smartphone
   - [x] Alimentazione 5V @ 10A
-  - [ ] Selezione molle per mano robotica
-- [ ] Progettazione meccanica 
-  - [ ] Realizzazione delle parti che compongono il Robot (esportati in STL)
-  - [ ] Stampare in 3D le componenti meccaniche
-  - [ ] Assemblare le parti meccaniche con le parti elettriche (motori, encoder, etc)
+  - [-] ~~Selezione molle per mano robotica~~
+- [x] Progettazione meccanica 
+  - [x] Realizzazione delle parti che compongono il Robot (esportati in STL)
+  - [x] Stampare in 3D le componenti meccaniche
+  - [x] Assemblare le parti meccaniche con le parti elettriche (motori, encoder, etc)
 - [x] Progettazione elettronica
    - [x] Alimentazione
    - [x] Shield p1000 
